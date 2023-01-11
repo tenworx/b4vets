@@ -11,6 +11,6 @@ A new Flutter project, Donate for needy.
 
 
 <p align="center">
-  <img src="screenshots/Picture1.jpg" width="200" height="350">
+  <img src="screenshots/Picture1.jpg" width="180" height="350">
 </p>
 
